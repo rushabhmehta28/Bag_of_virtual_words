@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rushabh/working_dir/Bag_of_virtual_words/html_writer.hpp
+string
+-
+
+/home/rushabh/working_dir/Bag_of_virtual_words/image_browser.hpp
+array
+-
+string
+-
+tuple
+-
+vector
+-
+
+/home/rushabh/working_dir/Bag_of_virtual_words/main.cpp
+iostream
+-
+array
+-
+string
+-
+tuple
+-
+vector
+-
+html_writer.hpp
+/home/rushabh/working_dir/Bag_of_virtual_words/html_writer.hpp
+image_browser.hpp
+/home/rushabh/working_dir/Bag_of_virtual_words/image_browser.hpp
+

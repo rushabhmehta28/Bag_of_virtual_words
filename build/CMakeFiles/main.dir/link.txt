@@ -1,0 +1,1 @@
+/usr/bin/c++  -lstdc++fs -std=c++17  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main  libimage_browser.a libhtml_writer.a 

@@ -1,0 +1,5 @@
+/home/rushabh/working_dir/Bag_of_virtual_words/build/CMakeFiles/rebuild_cache.dir
+/home/rushabh/working_dir/Bag_of_virtual_words/build/CMakeFiles/edit_cache.dir
+/home/rushabh/working_dir/Bag_of_virtual_words/build/CMakeFiles/bag_of_virtual_word.dir
+/home/rushabh/working_dir/Bag_of_virtual_words/build/CMakeFiles/image_browser.dir
+/home/rushabh/working_dir/Bag_of_virtual_words/build/CMakeFiles/html_writer.dir
